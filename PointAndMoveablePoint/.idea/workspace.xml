@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,6 +45,7 @@
       <updated>1567502776299</updated>
       <workItem from="1567502788175" duration="2091000" />
       <workItem from="1567560278568" duration="2523000" />
+      <workItem from="1567649466619" duration="196000" />
     </task>
     <servers />
   </component>
